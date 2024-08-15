@@ -33,7 +33,7 @@ Finding data related to computer improvement was much more difficult than i thou
 ## Sources
 -Transistor count by year. https://ourworldindata.org/grapher/transistors-per-microprocessor?tab=table
 -Computational Capacity of the fastest supercomputers over time https://ourworldindata.org/grapher/supercomputer-power-flops
-Price of Memory / Storage over time https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage?tab=table
+-Price of Memory / Storage over time https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage?tab=table
 -Price of GFLOPS over time https://en.wikipedia.org/wiki/FLOPS
 -Results of 2021 Global Burden of Disease study. Contains comprehensive selection of data on what is causing people to die. https://vizhub.healthdata.org/gbd-results/
 
